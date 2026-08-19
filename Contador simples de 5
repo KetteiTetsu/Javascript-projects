@@ -1,0 +1,10 @@
+const numero = 6;
+const Divisor = (numero % 5 ) === 0;
+
+if (numero === 0) {
+    console.log("da nao man")
+} else if (Divisor) {
+    console.log("True")
+} else {
+    console.log("paia")
+}
