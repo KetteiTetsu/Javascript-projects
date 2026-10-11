@@ -4,3 +4,6 @@ simples repositório onde eu coloco os projetinhos de javascript que eu faço en
 
 06/10/2026
 estou achando javascript uma linguagem muito interessante e legal de se aprender, sinceramente no começo eu gostava mais de python mas ate agora javascript esta parecendo mais legal
+
+10/10/2026
+vacilei e nao mantive minha sequencia de 40 dias porem to gostando mt de javascript nmrl
